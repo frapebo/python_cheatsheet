@@ -1,40 +1,43 @@
 # python_cheatsheet
 
-##Basic Python
+## Basic Python
 
-###Ettiquette
+### Ettiquette
 
-##Getting Data
+## Getting Data
 
 
-##Transforming
+## Transforming
 
-###Data Wrangling
+### Data Wrangling
+
  [Data Wrangling Cheat Sheet](https://buff.ly/2qI6OWS )
+ 
 ![Data Wrangling Cheat Sheet 1](C:\Users\perisbf\OneDrive - Boston Scientific\Desktop\Python_programs\python_cheatsheet\imagespandas1.jpg)
+
 ![Data Wrangling Cheat Sheet 2](C:\Users\perisbf\OneDrive - Boston Scientific\Desktop\Python_programs\python_cheatsheet\images\pandas2.jpg)
 
 
-##Exploring Data
+## xploring Data
 
-##Graphics
+## Graphics
 
-##Output data
+## Output data
 
 
-##Anaconda/Conda
+## Anaconda/Conda
 
-##Git
+## Git
 
-##markdown
+## markdown
 https://www.markdownguide.org/cheat-sheet/
 
 
 
-##Statistics
+## Statistics
 
 
-##Machine learning
+## Machine learning
 
 
-##VIM
+## VIM
