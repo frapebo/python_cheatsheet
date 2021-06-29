@@ -13,9 +13,9 @@
 
  [Data Wrangling Cheat Sheet](https://buff.ly/2qI6OWS )
  
-![Data Wrangling Cheat Sheet 1](C:\Users\perisbf\OneDrive - Boston Scientific\Desktop\Python_programs\python_cheatsheet\imagespandas1.jpg)
+![Data Wrangling Cheat Sheet 1](images/pandas1.JPG)
 
-![Data Wrangling Cheat Sheet 2](C:\Users\perisbf\OneDrive - Boston Scientific\Desktop\Python_programs\python_cheatsheet\images\pandas2.jpg)
+![Data Wrangling Cheat Sheet 2](images/pandas2.JPG)
 
 
 ## xploring Data
