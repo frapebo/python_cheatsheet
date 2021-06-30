@@ -12,7 +12,10 @@
 ### Ettiquette
 
 ## Getting Data
-
+Functions:
+1 pd.read_csv
+2 pd.read_excel
+3 pd.read_sas
 
 ## Transforming
 
@@ -26,6 +29,17 @@
 
 
 ## Exploring Data
+
+df.Regionname.value_counts()
+df.Regionname.value_counts(normalize=True)
+df.Price.value_counts(normalize=True, bins=10)
+
+df_filtered = df[(df.Price > 500000) & (df.Rooms > 3)] 
+OR
+df_filtered = df.query("Price > 500000 and Rooms > 3")
+
+df_filtered.head()
+
 
 ## Graphics
 
