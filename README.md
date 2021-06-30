@@ -1,7 +1,11 @@
 # python_cheatsheet
 
 ## instruction
-review/research/add/produce/share
+- [ ] review
+- [ ] research
+- [ ] add
+- [ ] produce
+- [ ] share
 
 ## Basic Python
 
