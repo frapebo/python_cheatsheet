@@ -25,7 +25,7 @@
 ![Data Wrangling Cheat Sheet 2](images/pandas2.JPG)
 
 
-## xploring Data
+## Exploring Data
 
 ## Graphics
 
@@ -35,6 +35,15 @@
 ## Anaconda/Conda
 
 ## Git
+
+why
+
+SourceTree
+
+rebase, merge, ...
+
+conflict resolution
+
 
 ## markdown
 
