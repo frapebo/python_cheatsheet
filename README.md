@@ -12,10 +12,12 @@
 ### Ettiquette
 
 ## Getting Data
+
 Functions:
-1 pd.read_csv
-2 pd.read_excel
-3 pd.read_sas
+
+1. pd.read_csv
+2. pd.read_excel
+3. pd.read_sas
 
 ## Transforming
 
