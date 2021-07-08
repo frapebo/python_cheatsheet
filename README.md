@@ -48,6 +48,11 @@ df_filtered.head()
 ## Output data
 
 
+## Data Exploration
+
+ [COMPREHENSIVE DATA EXPLORATION WITH PYTHON on Kaggle](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python#COMPREHENSIVE-DATA-EXPLORATION-WITH-PYTHON)
+
+
 ## Anaconda/Conda
 
 ## Git
