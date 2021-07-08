@@ -52,6 +52,15 @@ df_filtered.head()
 
  [COMPREHENSIVE DATA EXPLORATION WITH PYTHON on Kaggle](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python#COMPREHENSIVE-DATA-EXPLORATION-WITH-PYTHON)
 
+ - Histograms
+ - scatter plots
+ - boxplots
+ - correlation matrix
+ - missing data
+ - outliars: 
+   - univariate analysis
+   - Bivariate analysis
+
 
 ## Anaconda/Conda
 
