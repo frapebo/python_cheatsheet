@@ -91,3 +91,20 @@ conflict resolution
 
 
 ## VIM
+
+
+## Essential Python Libraries
+
+NumPy
+
+pandas
+
+matplotlib
+
+Jupyter
+
+SciPy
+
+scikit-learn
+
+statsmodels
